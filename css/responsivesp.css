@@ -1,0 +1,307 @@
+@media screen and (max-width:750px){
+
+   /* 全体 */
+   .container {
+    width: 375px;
+  }
+
+  .sp-br {
+    display: none;
+  }
+/* ここからheader */
+header {
+  height: 35px;
+}
+
+header p {
+  font-size: 12px;
+  padding-top: 10px;
+}
+/* headerここまで */
+
+  /* ここからmain */
+/* top コロナ時代の生き方 */
+.top:after {
+  height: 20px;
+}
+
+/* テキスト全体 */
+.title-txts {
+  padding-top: 100px;
+}
+
+/* IKEDA TAKAMASA PRESENTS */
+.presenter-name {
+  font-size: 16px;
+}
+
+/* コロナ時代の生き方 */
+.top h1 {
+  font-size: 40px;
+}
+
+/* 〜困難な時代を、 */
+.top h2 {
+  font-size: 15px;
+}
+
+/* How to... */
+.title-en {
+  font-size: 13px;
+}
+
+/* 「福岡限定イベント」開催決定 */
+.title-fukuoka {
+  font-size: 16px;
+  width: 350px;
+}
+/* mainここまで */
+/* ここからsection */
+
+/* content1全体 */
+.content1 {
+  padding-top: 100px;
+  padding-bottom: 40px;
+}
+
+.content1 h1 {
+  margin-bottom: 170px;
+}
+
+.movie iframe {
+  top: 50px;
+}
+
+/* タイトル */
+.content-title {
+  font-size: 28px;
+  padding-bottom: 30px;
+}
+
+/* タイトル以外テキスト全体 */
+section p {
+  font-size: 13px;
+  padding-bottom: 15px;
+}
+
+/* content2全体 */
+.content2 {
+  padding: 40px 0;
+}
+
+.content2 span {
+  font-size: 28px;
+}
+
+
+/* content3全体 */
+.content3 {
+  padding-top: 40px;
+}
+
+.content3 span {
+  font-size: 28px;
+}
+
+/* サイン画像 */
+.sign-white {
+  position: relative;
+  bottom: 30px;
+  left: 140px;
+}
+
+.sign-white img {
+  width: 130px;
+}
+
+/* sectionここまで */
+/* ここからprofile */
+
+/* profile全体 */
+.profile {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.profile-flex {
+  flex-direction: column;
+}
+
+/* 講師の写真 */
+.teacher-img {
+  width: 300px;
+}
+
+/* 講師プロフィールテキスト */
+.profile-txts {
+  width: 100%;
+  text-align: left;
+}
+
+/* 書籍の画像 */
+.logo_10 {
+  position: absolute;
+  top: -50px;
+  left: 7%;
+}
+
+.logo_32 {
+  position: absolute;
+  top: -50px;
+  right: 45%;
+}
+
+/* profileここまで */
+/* ここからcompany */
+
+/* company全体 */
+.company {
+  height: auto;
+  padding-top: 40px;
+  padding-bottom: 100px;
+}
+
+/* セミナー開催概要 table */
+table {
+  width: 375px;
+}
+
+tbody td  {
+  display: block;
+}
+
+tbody tr,tbody th{
+  display: block;
+  width: 100%;
+}
+
+tbody th {
+  border-right: 5px solid #b18016c4;
+  padding: 10px 0;
+  font-size: 13px;
+}
+
+/* タイトル */
+thead p {
+  font-size: 22px;
+}
+
+/* 日程tr */
+.day-top {
+  padding: 10px;
+  font-size: 14px;
+}
+
+.capa {
+  padding-left: 15px;
+}
+
+/* 価格 */
+.price-left {
+  padding: 13px;
+  font-size: 14px;
+}
+
+.font-size {
+  font-size: 12px;
+}
+
+.price-arrow img {
+  width: 40px;
+}
+
+.price-right {
+  padding: 13px;
+}
+
+.price-right p {
+  font-size: 14px;
+}
+
+.price_big {
+  font-size: 22px;
+}
+
+/* 会場 */
+.place_tr th {
+  vertical-align: middle;
+  padding: 10px 0;
+}
+
+.place {
+  flex-direction: column;
+  padding: 15px;
+}
+
+.place-info span {
+  font-size: 14px;
+  padding-bottom: 5px;
+}
+
+.ggmap-map iframe {
+  width: 350px;
+  height: 180px;
+  padding-top: 10px;
+}
+
+/* お支払い方法 */
+.pay {
+  flex-direction: column;
+}
+
+.pay p {
+  padding-top: 10px 10px;
+}
+
+/* 領収書の発行 */
+.table-font p,table li {
+  font-size: 13px;
+  padding: 10px;
+}
+
+.receipt br {
+  display: none;
+}
+
+/* キャンセル */
+.cancel br {
+  display: none;
+}
+
+/* お申込みの流れ */
+.form_tr th {
+  vertical-align: center;
+  padding: 10px 0;
+}
+
+/* セミナーご受講約款 */
+.seminar-rule a {
+  font-size: 13px;
+  padding: 5px 0 5px 20px;
+  color: #333333;
+}
+
+/* 申し込みボタン */
+.form-btn {
+  width: 375px;
+  text-align: center;
+}
+
+/* ここからfooter */
+.footer {
+  width: 100%;
+}
+
+.footer-bottom {
+  width: auto;
+  height: 70px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.copyright {
+  text-align: left;
+  padding-top: 10px;
+}
+
+}
