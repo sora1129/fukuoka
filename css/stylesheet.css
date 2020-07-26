@@ -51,7 +51,7 @@ header p {
 /* top コロナ時代の生き方 */
 .top {
   height: 720px;
-  background-image: url(images/bg_top.jpeg);
+  background-image: url(../images/bg_top.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position:center center;
