@@ -128,7 +128,7 @@ header p {
   overflow: hidden;
   height: 2640px;
   background-color: black;
-  background-image: url(images/content1_bg.jpg);
+  background-image: url(../images/content1_bg.jpg);
   background-size: 100% 2642px;
   background-position: center center;
   background-repeat: no-repeat;
@@ -167,7 +167,7 @@ section p {
   height: 2660px;
   padding: 130px 0;
   background-color: black;
-  background-image: url(images/content2_bg.jpg);
+  background-image: url(../images/content2_bg.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 100% 2665px;
@@ -184,7 +184,7 @@ section p {
   overflow: hidden;
   height: 3300px;
   padding-top: 120px;
-  background-image: url(images/content3.jpg);
+  background-image: url(../images/content3.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% 3305px;
